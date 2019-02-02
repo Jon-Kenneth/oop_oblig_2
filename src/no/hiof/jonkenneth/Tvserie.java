@@ -8,7 +8,7 @@ public class Tvserie {
 
 
     /*---------------------------------------VARIABLER-----------------------------------------*/
-    private String tittel;
+    private String tittele;
     private String beskrivelse;
     private LocalDate utgivelsesdato;
     private ArrayList<Episode> episoder;
